@@ -7,4 +7,6 @@
 :root {
 	--my-awesome-color: dodgerblue;
 	--small: 15px;
+	--danger-color: rgb(158, 6, 6);
+	--clear-color: rgb(207, 207, 207);
 }

@@ -2,4 +2,5 @@
 
 h1 {
 	font-size: var(--small);
+	color: var(--danger-color);
 }
